@@ -1,0 +1,65 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/Marlin",
+                "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/.pio/libdeps/LPC1769/U8glib-HAL/src",
+                "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/.pio/libdeps/LPC1769/Adafruit NeoPixel",
+                "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/.pio/libdeps/LPC1769/TMCStepper/src",
+                "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/Marlin/src/HAL/LPC1768/include",
+                "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/Marlin/src/HAL/LPC1768/u8g",
+                "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/Marlin",
+                    "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/.pio/libdeps/LPC1769/U8glib-HAL/src",
+                    "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/.pio/libdeps/LPC1769/Adafruit NeoPixel",
+                    "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/.pio/libdeps/LPC1769/TMCStepper/src",
+                    "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                    "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/Marlin/src/HAL/LPC1768/include",
+                    "D:/OneDrive/Programming/3d Printer/Marlin-2.0.x-SKR-V1.4-Turbo/Marlin/src/HAL/LPC1768/u8g",
+                    "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                    "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                    "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                    "C:/Users/ALTimmons/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                    ""
+                ]
+            },
+            "defines": [
+                "LPC176X_FRAMEWORK",
+                "TARGET_LPC1768",
+                "F_CPU=120000000L",
+                "MCU_LPC1769",
+                "PIO_PLATFORM_VERSION=1003UL",
+                "PIO_FRAMEWORK_VERSION=2008UL",
+                "PLATFORMIO=50101",
+                "__MARLIN_FIRMWARE__",
+                "U8G_HAL_LINKS",
+                "ARDUINO_ARCH_LPC176X",
+                "ARDUINOLPC=10805",
+                ""
+            ],
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Users/ALTimmons/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m3",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

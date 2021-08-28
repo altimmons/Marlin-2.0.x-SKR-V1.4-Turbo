@@ -1,12 +1,12 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": ".."
 		}
 	],
 	"settings": {
 		// "editor.fontFamily": "Operator Mono Lig"
-		"workbench.colorTheme": "Horizon Italic",
+		"workbench.colorTheme": "Dark Horizon",
 		"[jsonc]": {
 			"editor.quickSuggestions": {
 				"strings": false

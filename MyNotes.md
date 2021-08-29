@@ -1,5 +1,18 @@
 # Notes
 
+Links
+
+-   [Calibration](https://reprap.org/wiki/Calibration)
+-   [Calibrating Steps-per-unit](https://youtu.be/wAL9d7FgInk)
+-   [Prusa's calculators](https://blog.prusaprinters.org/calculator_3416/)
+-   [Triffid Hunter's Calibration Guide](https://reprap.org/wiki/Triffid_Hunter%27s_Calibration_Guide)
+-   [The Essential Calibration Set](https://www.thingiverse.com/thing:5573)
+-   [Calibration of your RepRap](https://sites.google.com/site/repraplogphase/calibration-of-your-reprap)
+-   [XY 20mm Calibration Box](https://www.thingiverse.com/thing:298812)
+-   [G-code reference](https://reprap.org/wiki/G-code)
+-   [Marlin3DprinterTool](https://github.com/cabbagecreek/Marlin3DprinterTool)
+
+
 ## setup 
 
 
@@ -23,7 +36,7 @@ Used LPC1789 -
 
 
 > After the compilation is successful, a **firmware.bin** file will be generated in the 
-`.pioenvs\LPC1768` directory. We will copy this file to the TF card of the motherboard, and then reset the motherboard, so that the firmware is burned into the motherboard.
+`.pioenvs\LPC1768` directory. We will copy this file to the TF card of the motherboard, and then reset the motherboard, so that the firmware is burned into the motherboard. ThisIsACamelCaseWord
 
 
 Marlin\src\HAL\LPC1768 has the location of the windows driver

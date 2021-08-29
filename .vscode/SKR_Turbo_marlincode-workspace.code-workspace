@@ -6,13 +6,14 @@
 	],
 	"settings": {
 		// "editor.fontFamily": "Operator Mono Lig"
-		"workbench.colorTheme": "Dark Horizon",
+		"workbench.colorTheme": "Viow Neon",
 		"[jsonc]": {
 			"editor.quickSuggestions": {
 				"strings": false
 			},
 			"editor.suggest.insertMode": "replace"
 		},
+		"terminal.integrated.automationShell.windows": "wsl.exe",
 		"[Horizon Italic]": {
 			"textMateRules": [
 				{
